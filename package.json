@@ -14,7 +14,7 @@
     "test": "tape test/**/*.js"
   },
   "standard": {
-    "globals": [ ]
+    "globals": []
   },
   "repository": {
     "type": "git",
